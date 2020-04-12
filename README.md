@@ -4,3 +4,4 @@ This is just for book keeping and should not be used by others for copying solut
 Note : 
 1. All the programs are in Java 8
 2. This is a simple directory with solutions of various problems from various platforms.
+3. Some solutions might not be correct.
